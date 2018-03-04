@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git has been changed
 Git checkout command.
+Creating a new branch is quick.
